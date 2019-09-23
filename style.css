@@ -6,6 +6,8 @@
 }
 .nav_bar ul {
 padding: 0;
- list-style: none;
-
+list-style: none;
+}
+.nav_bar ul li {
+   float: left;
 }
