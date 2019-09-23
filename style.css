@@ -3,3 +3,8 @@ body {
   background: #B20BCB;
   font-family: arial;
 }
+.nav_bar {
+ margin: auto;
+  border-bottom: 1px solid #000000;
+  padding: 0px 20px 0px 20px;
+}
