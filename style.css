@@ -4,3 +4,8 @@
   border-bottom: 1px solid #000000;
   padding: 0px 20px 0px 20px;
 }
+.nav_bar ul {
+padding: 0;
+ list-style: none;
+
+}
