@@ -18,14 +18,8 @@ body{
   position: relative;
   
 }
-.btn1, .btn2, .btn3{
+.btn1, .btn2, .btn3, .btn4{
   color: #FFC300;
 }
-.btn1:hover,.btn2:hover,.btn3:hover{
-  color: #420101;
-}
-.btn::before{
-  content:"";
-  position: absolute;
-  
-}
+.btn1:hover,.btn2:hover,.btn3:hover,.btn4:hover{
+  color: #FFf;
