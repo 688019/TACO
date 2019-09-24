@@ -14,3 +14,6 @@ ul li{
   margin: 30px;
   border-radius: 15px;
 }
+ul li a{
+  text-decoration: none;
+}
