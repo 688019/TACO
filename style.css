@@ -1,1 +1,31 @@
-
+body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  text-align: center;
+  margin: 0;
+}
+.btn{overflow: hidden;
+  border: 1px solid #E6C611;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family:"arial";
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.20s;
+  position: relative;
+  
+}
+.btn1, .btn2, .btn3{
+  color: #FFC300;
+}
+.btn1:hover,.btn2:hover,.btn3:hover{
+  color: #420101;
+}
+.btn::before{
+  content:"";
+  position: absolute;
+  
+}
