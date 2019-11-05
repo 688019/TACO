@@ -17,3 +17,8 @@ body{
   transition: 0.20s;
   position: relative;
   
+  titile{
+    background-color: #fff;
+    margin: 0;
+}
+  
