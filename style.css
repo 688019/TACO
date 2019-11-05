@@ -6,7 +6,8 @@ body{
   text-align: center;
   margin: 0;
 }
-.btn{overflow: hidden;
+.btn{
+  overflow: hidden;
   border: 1px solid #E6C611;
   background: none;
   padding: 10px 20px;
